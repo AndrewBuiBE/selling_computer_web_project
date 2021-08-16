@@ -6,3 +6,5 @@ Besides, all lines of code are mannually made which means no framework attached.
 We had all basic needs for an ecommerce website: pages, responsive, security, e-commerce-service, js, ...
 
 Contributors: Nguyen Quang Huy, Nguyen Van Thanh, Tran Quang Minh and me.
+
+This is my demo
